@@ -1,4 +1,4 @@
-Проект сделанный по курсу: https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
+Веб-чат по различным топикам, с системой авторизации, пользователей. Также реализован REST api.
 
 Для установки
 ```
@@ -12,3 +12,4 @@ python3 manage.py migrate
 ```
 python3 manage.py runserver
 ```
+Проект сделанный по курсу: https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
